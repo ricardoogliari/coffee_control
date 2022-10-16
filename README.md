@@ -1,16 +1,8 @@
-# coffee_control
+# Coffee Control
 
-A new Flutter project.
+A simple aplication for you can control yourr daily consume off coffee.
 
-## Getting Started
+This project was built for show an practical case of provider package and state management.
 
-This project is a starting point for a Flutter application.
+If a UI/UX professional wants to help me we can build a new version and publish it on stores.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
