@@ -6,3 +6,9 @@ This project was built for show an practical case of provider package and state 
 
 If a UI/UX professional wants to help me we can build a new version and publish it on stores.
 
+# Screenshots
+
+![](screenshot-types.png)
+![](screenshot-snackbar.png)
+![](screenshot-sizes.png)
+![](screenshot-list.png)
