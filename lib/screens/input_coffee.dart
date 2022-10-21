@@ -7,14 +7,7 @@ import 'package:coffee_control/screens/list_coffees.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-class InputCoffee extends StatefulWidget {
-  const InputCoffee({Key? key}) : super(key: key);
-
-  @override
-  State<InputCoffee> createState() => _InputCoffeeState();
-}
-
-class _InputCoffeeState extends State<InputCoffee> {
+class InputCoffee extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
